@@ -1,2 +1,4 @@
 # example
-Examples of various cases
+
+예시 문제들에 대해서 정리중
+특정 데이터 셋이나 알고리즘 테스트를 진행한 부분들을 정리
