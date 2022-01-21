@@ -7,6 +7,4 @@
 gausian anomaly detection
 https://www.kaggle.com/shelars1985/anomaly-detection-using-gaussian-distribution
 
-anomaly detection with autoencoder
-https://www.kaggle.com/robinteuwens/anomaly-detection-with-auto-encoders
 
